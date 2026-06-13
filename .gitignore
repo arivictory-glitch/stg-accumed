@@ -1,0 +1,9 @@
+.env
+/vendor/
+/storage/logs/*
+/storage/cache/*
+/public/uploads/*
+node_modules/
+*.zip
+*.sql
+.DS_Store
