@@ -1,3 +1,1 @@
-document.addEventListener("DOMContentLoaded", function () {
-    console.log("Accumed initialized");
-});
+document.addEventListener('DOMContentLoaded',()=>console.log('Accumed v2'));
