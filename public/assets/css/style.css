@@ -1,0 +1,22 @@
+:root{
+    --primary:#009688;
+    --secondary:#004b5a;
+    --light:#f8f9fa;
+    --dark:#222;
+}
+
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    background:#fff;
+    color:var(--dark);
+}
+
+.navbar-brand{
+    font-weight:700;
+}
+
+.hero{
+    min-height:600px;
+    display:flex;
+    align-items:center;
+}
